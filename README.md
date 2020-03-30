@@ -1,4 +1,4 @@
-# IKEA TRADFRI REMOTE
+# IKEA TRADFRI REMOTE DIMMER
 
 ### An AppDaemon add-on for my Tradfri Remote app
 
