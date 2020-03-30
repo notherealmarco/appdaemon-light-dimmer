@@ -1,0 +1,5 @@
+#this is a configuration example
+
+light_dimmer:
+  module: light_dimmer
+  class: NoTheDimmer
